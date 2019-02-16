@@ -21,20 +21,25 @@ html {
 	
 @font-face {	
 	font-family: 'Titillium';
-	src: url('TitilliumWeb-SemiBold.ttf');	
+	src: url('TitilliumWeb-Light.ttf');	
 	}
 
 	
-.navbar {
+navbar {
 	width: 100%;
-	background: #8b9cbf;	
+	background: #8b9cbf;
     overflow: hidden;
 	position:fixed;
 	top:0px;
 	left:0px;
 	border-bottom: thin solid #aaaaee;
+	transition: top 0.2s ease-in-out;
 	}
 
+.nav-up {
+  top: -2.9vw;
+}
+	
 .navimage {
 	height:2.7vw;
 	/*min-height:30px;
@@ -42,11 +47,19 @@ html {
 	float:left;
 	}
 
-.navextlink {
+navextlink {
 	float:right;
 	position:fixed;
 	right:0px;
 	top:0px;
+}
+
+.extlink-subtle {
+	opacity: 0.6;
+}
+
+.extlink-subtle:hover {
+	opacity: 1.0;
 }
 	
 .navbutton {
@@ -132,6 +145,7 @@ html {
 	
 .blast-buttons:hover {
 	background: #8B9CBF;
+	box-shadow: 1px 1px 5px #333366;
 	}
 	
 .reply-button {
