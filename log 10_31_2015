@@ -1,0 +1,75 @@
+---LOG STARTED---
+31 Oct 2015 13:08:34:  :verne.freenode.net NOTICE * :*** Looking up your hostname...
+:verne.freenode.net NOTICE * :*** Checking Ident
+:verne.freenode.net NOTICE * :*** No Ident response
+:verne.freenode.net NOTICE * :*** Couldn't look up your hostname
+31 Oct 2015 13:08:34:  :verne.freenode.net 001 RTLBot :Welcome to the freenode Internet Relay Chat Network RTLBot
+:verne.freenode.net 002 RTLBot :Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.3
+:verne.freenode.net 003 RTLBot :This server was created Wed Jun 10 2015 at 11:49:56 UTC
+:verne.freenode.net 004 RTLBot verne.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:verne.freenode.net 005 RTLBot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:verne.freenode.net 005 RTLBot CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:verne.freenode.net 005 RTLBot EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:verne.freenode.net 251 RTLBot :There are 160 users and 82982 invisible on 27 servers
+:verne.freenode.net 252 RTLBot 26 :IRC Operators online
+:verne.freenode.net 253 RTLBot 8 :unknown connection(s)
+:verne.freenode.net 254 RTLBot 53353 :channels formed
+:verne.freenode.net 255 RTLBot :I have 4799 clients and 1 servers
+:verne.freenode.net 265 RTLBot 4799 5755 :Current local users 4799, max 5755
+:verne.freenode.net 266 RTLBot 83142 97293 :Current global users 83142, max 97293
+:verne.freenode.net 250 RTLBot :H
+31 Oct 2015 13:08:34:  ighest connection count: 5756 (5755 clients) (1067088 connections received)
+:verne.freenode.net 375 RTLBot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 RTLBot :- Welcome to verne.freenode.net in Amsterdam, NL.
+:verne.freenode.net 372 RTLBot :- Thanks to http://www.hyperfilter.com/ for sponsoring
+:verne.freenode.net 372 RTLBot :- this server!
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 372 RTLBot :- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+:verne.freenode.net 372 RTLBot :- a pioneering french author known for novels such as Twenty
+:verne.freenode.net 372 RTLBot :- Thousand Leagues Under the Sea, A Journey to the Center of the
+:verne.freenode.net 372 RTLBot :- Earth, and Around the World in Eighty Days. Often lauded as the
+:verne.freenode.net 372 RTLBot :- Father of science fiction, Verne wrote about concepts such as
+:verne.freenode.net 372 RTLBot :- space travel, skyscrapers, and worldwide communications
+:verne.freenode.net 372 RTLBot :- networks long before these ideas became popularised or realised.
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 372 RTLBot :- Welcome to freenode - supporting the free and open source
+:verne.freenode.net 372 RTLBot :- software communities since 1998.
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 372 RTLBot :- By connecting to freenode you indicate that you have read a
+31 Oct 2015 13:08:36:  nd
+:verne.freenode.net 372 RTLBot :- accept our policies as set out on http://www.freenode.net
+:verne.freenode.net 372 RTLBot :- freenode runs an open proxy scanner. Please join #freenode for
+:verne.freenode.net 372 RTLBot :- any network-related questions or queries, where a number of
+:verne.freenode.net 372 RTLBot :- volunteer staff and helpful users will be happy to assist you.
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 372 RTLBot :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+:verne.freenode.net 372 RTLBot :- together with like-minded FOSS enthusiasts for talks and
+:verne.freenode.net 372 RTLBot :- real-life collaboration.
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 372 RTLBot :- We would like to thank Private Internet Access
+:verne.freenode.net 372 RTLBot :- (https://www.privateinternetaccess.com/) and the other
+:verne.freenode.net 372 RTLBot :- organisations that help keep freenode and our other projects
+:verne.freenode.net 372 RTLBot :- running for their sustained support.
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 372 RTLBot :- In particular we would like to thank the sponsor
+:verne.freenode.net 372 RTLBot :- of this server, details of which can be found above.
+:verne.freenode.net 372 RTLBot :-  
+:verne.freenode.net 376 RTLBot :End of /MOTD command.
+:RTLBot MODE RTLBot :+i
+31 Oct 2015 13:08:36:  :RTLBot!~RTLBot@167.114.36.58 JOIN ##rtlsdr
+:verne.freenode.net 332 RTLBot ##rtlsdr :Low-cost SDR - http://sdr.osmocom.org/trac/wiki/rtl-sdr - http://rtlsdr.org/ - http://rtlsdr.reddit.com - Try http://sdrsharp.com/ - Keep offtopic discussions short.
+:verne.freenode.net 333 RTLBot ##rtlsdr horizon!~horizon@osmocom/horizon 1369520724
+:verne.freenode.net 353 RTLBot = ##rtlsdr :RTLBot rjsnyder sparetire_ tazz_ fire219 pksato gat3way paccer Guest70762 jubatu_ mehdi0x41 chris_99 SgrA cuoops knight- hamgammon sharkbite KidBeta gerhard7 articfox superctr Alina-malina worldi wondiws asdil12 goldrak charolastra dys LordKalma floge iccanobif Kurlon kalzz dsx bpadalino fredy Walex2 lain sth0R kasper93 OmkAR xenos1984 flevopolder djinni [Echelon] storage__ phuzion skarn edenist ArexR sdfgsdfg programmerq HappyLoaf uwe_ Xor0X KvH NoCode
+:verne.freenode.net 353 RTLBot = ##rtlsdr :andygraybeal joren Foxyloxy beerus [cube] bdavenport atouk Sout Dipole-MA catapillerz merbanan x-f cukier evrial donguston udat BV1AL ephemer0l KD8NXH-Michigan pclover knight_ aaa801 GaLaK iZsh csgo1 r0b- meatmanek murtas m0b XDS2010 kierank Jango__ TacoTaco Sculptor w9ran tonsofpcs Math` qDot_ patchvonbraun1 mountaingoat jarod DonRichie jontxu someoneElse[] WanderingGlitch u0m3 zju3 weinholt atouk__ JernejL_ zju4 Bzzt_Ploink Odysimus ByteCrunch scrts
+:verne.freenode.net 353 RTLBot = ##rtlsdr :Sonny_Jim Holkin MatthewWilkes Tiger^ Mack bspar meik smbkire superkuh Tykling bx_lr tet Makdaam LjL lexvegas slee Xphome jorey pjm M-RyanRix mcarden xSmurf woo2 souca blakange1 Der_Henker ps-aux Apocx_ SiegeX afics Logicwax nighty^ AndrewMac RealBorg unforgiven512 tmoreira|gone MrVandelay funkylab_ cacodaemon laurent\ blkno1 pierre` cde MoALTz opios gobdan cryptic kkinetic Acinonyx IanMalcolm Tanguero K1773R kmehall Anastasius atg chithead sporkman Nemix_
+:verne.freenode.net 353 RTLBot = ##rtlsdr :riotz cowtown ngharo ryan-c n3ob hi117 lessyv nekaii balbinus _fortis mathis__ Maqs CME n8vi kumavis NullOverflow_ drathir _methods wapiflapi murb EJGW eoghan l
+31 Oct 2015 13:08:42:  1quid- nats` smooth_penguin camerongray flyback Coolguy42 ark` `blasty BrainDamage fkt acklen coddingtonbear sinnet3000 mybitbot efox ke5pcv bawigga jotun phr3ak aadamson alok tbrb dStruct Sporklin DrTaft Krakke LordDragon Bolto b0at ablemann taru eax64 mamikk djoot n17ikh Aleks Gcool Janhouse FDCX
+:verne.freenode.net 353 RTLBot = ##rtlsdr :bofh__ eharmon roox blackbit steve|m argonn rjp421 GRMrGecko _jack_ madscientist_ Zero_Chaos globber polde oxo vexorg wave Typo hkaga lvlinux DrDeke ketas tejeez gyaresu kdlv useretail ShadowHa1esYou StockAntenna pbehnke yuvadm jynik yro schquid Sirocco curfont Hebi v4s @ifreq hagbard Peetz0r MrCircuitMatt yknils boxfire Daviey nausea- bofh____ pozzoni Overand XandriX DoYouKnow jpsharp mjgardes keenerd amki Bish Mony doppo wilr aczid welterde mybit cubix`
+:verne.freenode.net 353 RTLBot = ##rtlsdr :aydiosmio hyperize1 stoat the_axis mikk0 Racc
+31 Oct 2015 13:08:42:  oon Barahir sparetire andyn Vaizki_ dist Pedr0 prog form obsed ub|k Juho mait bugzc_EC alfonzo1955 N3LRX marcusw Recompiled RagingComputer myself ixchi linuxthefish Strogg f0urtyfive d1g_ zarya gardar valloc kakimir rjg Odonay Khaytsus Enthralled Bryanstein dhtns Maxell Telvana sysanthrope atticist yeryry Omni_ yoavz
+:verne.freenode.net 366 RTLBot ##rtlsdr :End of /NAMES list.
+:ChanServ!ChanServ@services. NOTICE RTLBot :[##rtlsdr] Welcome to ##rtlsdr! Can you help us build the test script? Can you test your unit for us and report results on reddit? http://redd.it/rqrwo
+31 Oct 2015 13:08:42:  :fire219!~fire219@unaffiliated/fire219 PRIVMSG ##rtlsdr :RB weather 36545
+31 Oct 2015 13:08:56:  :radish!~radish@unaffiliated/stryx/x-3871776 JOIN ##rtlsdr
+31 Oct 2015 13:09:21:  :LordKalma!~LordKalma@62.169.109.228.rev.optimus.pt PRIVMSG ##rtlsdr :BR weather 4575
